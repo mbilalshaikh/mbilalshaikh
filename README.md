@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 I'm an aspring Data Scientist who is passionate about buidling AI-based products that solve business problems. I diverse input into deisgn and development of data-driven strategies enabling the innovation. I love coding with  Python. I build chatbots for fun. I mentor for Python WA, Perth Machine Learning Group. I judge Hackathons. I am an Open Source Advocate. I am focused on  Data Science & AI Communities.
 
 ### Other Stuff
-
-- 🔭 I work at MySecurityMedia
-- 🌱 I’m currently learning multimodal action recognition using deep learning.
-- 👯 I’m looking to collaborate on multimodal understanding.
-- 🤔 I’m looking for help with using transformers in multimodal context.
-- 💬 Ask me about problems and challenges in multimodal action recognition.
+- 💻 I’m a Data Scientist
+- 📈 I’m always learning new skills. Learning never ends !
+- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 💬 Ask me about problems and challenges in multimodal action recognition and data-driven straegies to find value for business.
 - 📫 How to reach me: <a href="https://twitter.com/onlybilalshaikh"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/mbshaikh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trying to loose some weight 😄
