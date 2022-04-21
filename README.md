@@ -14,6 +14,9 @@
 
 Here are some ideas to get you started:
 -->
+
+### Other Stuff
+
 - 🔭 I work at MySecurityMedia
 - 🌱 I’m currently learning multimodal action recognition using deep learning.
 - 👯 I’m looking to collaborate on multimodal understanding.
@@ -22,27 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://twitter.com/onlybilalshaikh"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/mbshaikh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trying to loose some weight 😄
-
-
-
-
-
-<!--
-**codess-aus/codess-aus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 <!-- Social Links -->
 
@@ -77,15 +59,6 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 |![Analytics](https://github.com/msandfor/msandfor/blob/master/assets/Kellogg_Analytics-01.png)|![Marketing Strategy](https://github.com/msandfor/msandfor/blob/master/assets/badge-352-modern-marketer-business-marketing-strategy.png)|![Modern Marketing](https://github.com/msandfor/msandfor/blob/master/assets/Microsoft_Kellogg_Graduate-01.png)|![Storytelling](https://github.com/msandfor/msandfor/blob/master/assets/StoryImpact-Badge-Grad-Nov-7-2017.png)|
 
 
-### Other Stuff
-
-- :cloud::zap: I work at <a href="https://www.microsoft.com/inculture/people-who-inspire/">Microsoft</a> 
-- :computer: I’m currently coding my way through <a href="https://freecodecamp.org/">FreeCodeCamp</a> and <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn</a>
-
-- :raising_hand: I collaborate with <a href="https://www.nuevofoundation.org/">Nuevo Foundation</a> and <a href="https://shecodes.com.au/">She Codes Australia</a> to make technology more inclusive
-- :octocat: I’m looking for help with improving my Open Source Contribution on Github
-- :woman: Pronouns: She/Her
-- ⚡ Fun fact: I have a golden Octocat given to me by my Github friend as thanks for my contribution to the tech community.
 
 ### Talks
 
@@ -107,7 +80,4 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codess-aus&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=codess-aus&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for Codess-AUS" /></p>
 
-
 [![Twitter Badge](https://img.shields.io/twitter/follow/onlybilalshaikh?style=social)](https://twitter.com/onlybilalshaikh)
-
-
