@@ -1,4 +1,8 @@
 ### Hi, I'm Bilal 👋 
+<!-- Followers Count and Views Count -->
+
+![](https://img.shields.io/github/followers/mbilalshaikh?label=Followers&style=flat-square)
+![Profile views](https://gpvc.arturio.dev/mbilalshaikh)
 
 <!--
 **mbilalshaikh/mbilalshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trying to loose some weight 😄
 
-<!-- Followers Count and Views Count -->
 
-![](https://img.shields.io/github/followers/mbilalshaikh?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/mbilalshaikh)
 
 <!-- Banner -->
 
