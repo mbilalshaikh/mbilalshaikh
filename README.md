@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Bilal 👋 
 
 <!--
 **mbilalshaikh/mbilalshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mbs.techy@gmail.com, onlybilalshaikh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trying to loose some weight 😄
-
-
-### Hi, I'm Bilal 👋 
 
 <!-- Followers Count and Views Count -->
 
