@@ -29,7 +29,9 @@ I'm an aspring Data Scientist who is passionate about buidling AI-based products
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mbshaikh/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/onlybilalshaikh?style=social)](https://twitter.com/onlybilalshaikh)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />](https://twitter.com/onlyBilalShaikh)
+
+
 
 ### Languages and Tools:
 
