@@ -36,6 +36,8 @@ I'm a Developer Engagment Lead who is passionate about building community, attra
 
 These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com/mbilalshaikh
 
+ABC(https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)
+
 ![AI900](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-fundamentals-600x600.png)
 
 ### Talks
