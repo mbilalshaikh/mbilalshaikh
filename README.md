@@ -1,6 +1,10 @@
 ### Hi, I'm Bilal 👋 
 <!-- Followers Count and Views Count -->
 
+<!-- Banner -->
+
+<img src="https://github.com/mbilalshaikh/mbilalshaikh/blob/main/github-banner.PNG" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+
 ![](https://img.shields.io/github/followers/mbilalshaikh?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/mbilalshaikh)
 
@@ -20,9 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- Banner -->
 
-<img src="https://github.com/mbilalshaikh/mbilalshaikh/blob/main/github-banner.PNG" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
 
 <!--
 **codess-aus/codess-aus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
