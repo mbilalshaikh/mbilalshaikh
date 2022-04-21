@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm trying to loose some weight 😄
 
 
-### Hi, I'm Michelle 👋 
+### Hi, I'm Bilal 👋 
 
 <!-- Followers Count and Views Count -->
 
-![](https://img.shields.io/github/followers/codess-aus?label=Followers&style=flat-square)
+![](https://img.shields.io/github/followers/mbilalshaikh?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/codess-aus)
 
 
