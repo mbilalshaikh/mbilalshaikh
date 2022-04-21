@@ -40,6 +40,6 @@ I'm an aspring Data Scientist who is passionate about buidling AI-based products
 
 <!--dashboards-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbilalshaikh&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=mbilalshaikh&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for Codess-AUS" /></p>
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mbilalshaikh&show_icons=true&hide_border=true" />
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/onlybilalshaikh?style=social)](https://twitter.com/onlybilalshaikh)
