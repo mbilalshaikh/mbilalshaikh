@@ -36,26 +36,7 @@ I'm a Developer Engagment Lead who is passionate about building community, attra
 
 These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com/mbilalshaikh
 
-[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)![AI100](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-engineer-600x600.png)|
-
-## Leadership Certifications
-
-Everyone should try and do some courses on Accessibility, on Diversity, on Mentoring and Coaching and on Change if you can - I recommend each of these programs
-
-|[**Accessibility**](https://www.youracclaim.com/earner/earned/badge/781e2c17-2ec9-4e26-a81e-2d88f66d3b6a)|[**Mentoring**](https://www.youracclaim.com/earner/earned/badge/c3685d01-14eb-4a0e-b0cb-fbebb660c879)|[**Change**](https://www.youracclaim.com/earner/earned/badge/850560df-682b-4d92-8338-1d4b144bc271)|[**Challenger**](https://www.youracclaim.com/earner/earned/badge/45adcea2-a316-4e50-abd8-de50c2f3e21d)|[**Speaker**](https://www.credly.com/badges/02d7c781-dd0e-47b6-a7bd-672b29160ffa)|[**Sustainability**](https://github.com/codess-aus/codess-aus/blob/master/assets/SustainabilityBadge%20-%20dark%20mode%20-%20white%20font.jpg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|![Accessibility](https://github.com/msandfor/msandfor/blob/master/assets/Acc_Badge_v4.png)|![Mentoring](https://github.com/msandfor/msandfor/blob/master/assets/Mentor-Gold.png)|![Proscii](https://github.com/msandfor/msandfor/blob/master/assets/Change_Practitioner.png)|![Challenger](https://github.com/msandfor/msandfor/blob/master/assets/Microsoft-Insight-Selling__284_29.png)|![**Speaker**](https://github.com/codess-aus/codess-aus/blob/master/assets/Event-Speaker-Silver.png)|![**Sustainability**](https://github.com/codess-aus/codess-aus/blob/master/assets/SustainabilityBadge%20-%20dark%20mode%20-%20white%20font.jpg)
-
-
-## Storytelling and more
-
-Here are some badges to celebrate the Marketing Courses I have undertaken
-
-|[**Insights & Analytics**](https://www.youracclaim.com/earner/earned/badge/352507f7-377d-4290-acc6-06b57becf69e)|[**Marketing Strategy**](https://www.youracclaim.com/earner/earned/badge/b93bac3a-d4a2-4a66-a428-a1522ae0e2f4)|[**Modern Marketing**](https://www.youracclaim.com/earner/earned/badge/e80bb12f-1886-484d-abad-78ed76f6855b)|[**Storytelling**](https://www.youracclaim.com/earner/earned/badge/8c40cc72-b74d-4b03-b7ea-7bf8f1a25da5)|
-|:---:|:---:|:---:|:---:|
-|![Analytics](https://github.com/msandfor/msandfor/blob/master/assets/Kellogg_Analytics-01.png)|![Marketing Strategy](https://github.com/msandfor/msandfor/blob/master/assets/badge-352-modern-marketer-business-marketing-strategy.png)|![Modern Marketing](https://github.com/msandfor/msandfor/blob/master/assets/Microsoft_Kellogg_Graduate-01.png)|![Storytelling](https://github.com/msandfor/msandfor/blob/master/assets/StoryImpact-Badge-Grad-Nov-7-2017.png)|
-
-
+![AI900](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-fundamentals-600x600.png)
 
 ### Talks
 
