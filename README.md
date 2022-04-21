@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 
-<img src="https://github.com/msandfor/msandfor/blob/master/assets/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+<img src="https://github.com/mbilalshaikh/mbilalshaikh/blob/main/github-banner.PNG" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
 
 <!-- Social Links -->
 
