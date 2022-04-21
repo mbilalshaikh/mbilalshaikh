@@ -14,7 +14,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a data analytics portal.
+- 🔭 I work at MySecurityMedia
 - 🌱 I’m currently learning multimodal action recognition using deep learning.
 - 👯 I’m looking to collaborate on multimodal understanding.
 - 🤔 I’m looking for help with using transformers in multimodal context.
