@@ -38,6 +38,8 @@ These are some of my Microsoft Certifications.  Check out my training notes in m
 
 ABC(https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)
 
+|[**AI900**](https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)|
+|:---:|
 ![AI900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-ai-fundamentals.png)
 
 ### Talks
