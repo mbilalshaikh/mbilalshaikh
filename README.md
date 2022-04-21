@@ -23,10 +23,13 @@ I'm an aspring Data Scientist who is passionate about buidling AI-based products
 - 📈 I’m always learning new skills. Learning never ends !
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 - 💬 Ask me about problems and challenges in multimodal action recognition and data-driven straegies to find value for business.
-- 📫 How to reach me: <a href="https://twitter.com/onlybilalshaikh"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/mbshaikh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trying to loose some weight 😄
 
+### Connect with me:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mbshaikh/)
+<a href="https://twitter.com/onlybilalshaikh"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
 
 ### Languages and Tools:
 
