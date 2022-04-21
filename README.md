@@ -29,7 +29,7 @@ I'm an aspring Data Scientist who is passionate about buidling AI-based products
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mbshaikh/)
-<a href="https://twitter.com/onlybilalshaikh"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
+[![Twitter Badge](https://img.shields.io/twitter/follow/onlybilalshaikh?style=social)](https://twitter.com/onlybilalshaikh)
 
 ### Languages and Tools:
 
@@ -70,4 +70,3 @@ I'm an aspring Data Scientist who is passionate about buidling AI-based products
 
 <img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mbilalshaikh&show_icons=true&hide_border=true" />
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/onlybilalshaikh?style=social)](https://twitter.com/onlybilalshaikh)
