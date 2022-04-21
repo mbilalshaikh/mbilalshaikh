@@ -113,6 +113,6 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 <img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/master/assets/octomichelle1.gif"></a>
 <img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/master/assets/twiliowearamask.gif"></a>
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/codess_aus?style=social)](https://twitter.com/codess_aus)
+[![Twitter Badge](https://img.shields.io/twitter/follow/onlybilalshaikh?style=social)](https://twitter.com/onlybilalshaikh)
 
 
