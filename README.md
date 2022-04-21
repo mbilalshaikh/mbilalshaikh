@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- Profile Blurb -->
 
-I'm a Developer Engagment Lead who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on Student and Data Science & AI Communities.
+I'm an aspring Data Scientist who is passionate about buidling AI-based products that solve business problems. I diverse input into deisgn and development of data-driven strategies enabling the innovation. I love coding with  Python. I build chatbots for fun. I mentor for Python WA, Perth Machine Learning Group. I judge Hackathons. I am an Open Source Advocate. I am focused on  Data Science & AI Communities.
 
 ## Technical Certifications
 
