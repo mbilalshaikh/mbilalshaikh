@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/mbilalshaikh?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/codess-aus)
+![Profile views](https://gpvc.arturio.dev/mbilalshaikh)
 
 
 <!--
