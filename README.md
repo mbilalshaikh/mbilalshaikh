@@ -64,8 +64,8 @@ I'm an aspring Data Scientist who is passionate about buidling AI-based products
 
 ## Technical Certifications
 
-|[**AI900**](https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)|
-|:---:|
+|[**AI900**](https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)|[**AZ900**](https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)|
+|:---:|:---:|
 ![AI900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-ai-fundamentals.png)
 
 <!--dashboards-->
