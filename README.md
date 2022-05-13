@@ -64,9 +64,9 @@ I'm an aspring Data Scientist who is passionate about buidling AI-based products
 
 ## Technical Certifications
 
-|[**AI900**](https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)|[**AZ900**](https://www.credly.com/badges/9c173792-8fb9-4b76-bfac-c26e4ca5d9f3/public_url)|[**DP900**](https://www.credly.com/badges/25b6b507-f710-425a-9fc8-e39a50f7a0db/public_url)
-|:---:|:---:|:---:|
-![AI900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-ai-fundamentals.png)|![AZ900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-fundamentals.png)|![DP900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-data-fundamentals-144.png)
+|[**AI900**](https://www.credly.com/badges/fe2e47af-6c3e-4bfd-ab97-c81ba7a6fecd/public_url)|[**AZ900**](https://www.credly.com/badges/9c173792-8fb9-4b76-bfac-c26e4ca5d9f3/public_url)|[**DP900**](https://www.credly.com/badges/25b6b507-f710-425a-9fc8-e39a50f7a0db/public_url)|[**DP100**](https://www.credly.com/badges/05a64d36-dd6e-49e5-89f2-30e07f61aa79/public_url)
+|:---:|:---:|:---:|:---:|
+![AI900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-ai-fundamentals.png)|![AZ900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-fundamentals.png)|![DP900](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-data-fundamentals-144.png)|![DP100](https://github.com/mbilalshaikh/mbilalshaikh/blob/main/microsoft-certified-azure-data-fundamentals-144.png)
 
 
 
