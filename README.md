@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- Profile Blurb -->
 
-I am a PhD student in Centre for Artificial Intelligence and Machine Learning (CAIML) at the School of Engineering, Edith Cowan University under the supervision of Prof. Douglas Chai.
+I am a PhD student in [Centre for Artificial Intelligence and Machine Learning (CAIML)](https://www.ecu.edu.au/schools/science/research/school-centres/centre-for-artificial-intelligence-and-machine-learning-aiml-centre/postgraduate-research-students) at the School of Engineering, Edith Cowan University under the supervision of [Prof. Douglas Chai](https://www.ecu.edu.au/schools/engineering/staff/profiles/associate-deans/dr-douglas-chai).
 My main research interest is in devising deep learning methods for various multimodal action analysis and classification tasks.
 
 I'm an aspring Data Scientist who is passionate about buidling AI-based products that solve business problems. I diverse input into deisgn and development of data-driven strategies enabling the innovation. I love coding with  Python. I build chatbots for fun. I mentor for Python WA, Perth Machine Learning Group. I judge Hackathons. I am an Open Source Advocate. I am focused on  Data Science & AI Communities.
